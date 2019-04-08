@@ -1,0 +1,6 @@
+In this example you will create a sample application, This application will be specifically for a bookstore. 
+
+At the end of the post you would have created a micro-service that will enable users to create and add a new book with few descriptions to an existing list of books. 
+
+This could be from a database, but to ensure simplicity in this post, we won’t really be connecting our application to a database yet. 
+But instead, we will make use of a mock data of books and once a new book is created, we will push and add it to the list.
